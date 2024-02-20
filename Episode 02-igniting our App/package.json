@@ -1,0 +1,34 @@
+{
+  "name": "episode-02-igniting-our-app",
+  "version": "1.0.0",
+  "description": "This is Eposide 02 Iginiting our App",
+  // "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarAjay10/namaste-React.git"
+  },
+  "keywords": [
+    "eposide",
+    "2",
+    "iginiting",
+    "our",
+    "app"
+  ],
+  "author": "Ajay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarAjay10/namaste-React/issues"
+  },
+  "homepage": "https://github.com/kumarAjay10/namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
