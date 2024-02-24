@@ -1,0 +1,33 @@
+{
+  "name": "epiosde-05-lets-get-hooked",
+  "version": "1.0.0",
+  "description": "lets get hooked",
+  "scripts": {
+    "test": "jest",
+     "start":"parcel index.html",
+     "build":"parcel build index.html" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarAjay10/namaste-React.git"
+  },
+  "keywords": [
+    "lets",
+    "get",
+    "hooked"
+  ],
+  "author": "Ajay kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarAjay10/namaste-React/issues"
+  },
+  "homepage": "https://github.com/kumarAjay10/namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
